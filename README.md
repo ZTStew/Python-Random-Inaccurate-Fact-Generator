@@ -1,4 +1,6 @@
 # Description:  
+Program is on ice for the foreseeable future.
+
 Program is intended to randomly generate a random inaccurate fact every x minutes and display it to the user as if it were
 an actual fact. The display comes in the form of a pop-up in the lower right corner of the screen. 
 
